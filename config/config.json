@@ -3,5 +3,11 @@
   "tokenSecret": "some-secret-shit-goes-here",
   "tokenLife": 900,
   "refreshTokenSecret": "some-secret-refresh-token-shit",
-  "refreshTokenLife": 86400
+  "refreshTokenLife": 86400,
+  "DatabaseType": "mariadb",
+  "DatabaseUsername": "username",
+  "DatabasePassword": "password",
+  "DatabaseAddress": "127.0.0.1",
+  "DatabasePort": "3306",
+  "Database": "traveltransp2"
 }
