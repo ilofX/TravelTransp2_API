@@ -7,7 +7,7 @@
   "DatabaseType": "mariadb",
   "DatabaseUsername": "username",
   "DatabasePassword": "password",
-  "DatabaseAddress": "127.0.0.1",
+  "DatabaseAddress": "192.168.3.240",
   "DatabasePort": "3306",
   "Database": "traveltransp2"
 }

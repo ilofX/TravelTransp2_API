@@ -6,7 +6,6 @@ let jwt = require('jsonwebtoken');
 
 const config = require('../config/config.json');
 
-
 router.post('/login', (req,res) => {
 
 });

@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('./app');
 var debug = require('debug')('traveltransp2-server:server');
 var http = require('http');
 const config = require('../config/config');
